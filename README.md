@@ -37,6 +37,8 @@ _Cacheable_: As respostas para uma requisição, deverão ser explicitas ao dize
 
 _Layered System_: O cliente acessa um endpoint, sem precisar saber da complexidade, de quais passos estão sendo necessários para o servidor responder a requisição, ou quais outras camadas o servidor estará lidando, para que a requisição seja respondida.
 
+_Uniform Interface_: Manter a uniformidade na criação da interface de comunicação da sua API.
+
 _Code on demand (optional)_: Dá a possibilidade da nossa aplicação pegar códigos, como o javascript, por exemplo, e executar no cliente.
 
 ### Boas Práticas:
@@ -66,3 +68,5 @@ _Code on demand (optional)_: Dá a possibilidade da nossa aplicação pegar cód
 	- 404: Not Found
 - 5xx: Server Error
 	- 500: Internal Server Error
+
+#### Vídeo: [O que é API? REST e RESTful? | Mayk Brito](https://www.youtube.com/watch?v=ghTrp1x_1As)
