@@ -69,4 +69,5 @@ _Code on demand (optional)_: Dá a possibilidade da nossa aplicação pegar cód
 - 5xx: Server Error
 	- 500: Internal Server Error
 
-#### Vídeo: [O que é API? REST e RESTful? | Mayk Brito](https://www.youtube.com/watch?v=ghTrp1x_1As)
+## Referências:
+#### Vídeo canal Rocketseat: [O que é API? REST e RESTful? | Mayk Brito](https://www.youtube.com/watch?v=ghTrp1x_1As)
